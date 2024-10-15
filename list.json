@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Understanding Vue.js",
+      "body": "Vue.js is a progressive JavaScript framework used for building user interfaces. It focuses on the view layer and is easy to integrate with other libraries or existing projects.",
+      "tags": [
+        "vue",
+        "javascript",
+        "framework"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Getting Started with Vue Router",
+      "body": "Vue Router is the official router for Vue.js. It enables navigation between different components and provides features such as route parameters and nested routes.",
+      "tags": [
+        "vue",
+        "router",
+        "navigation"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Vuex: State Management in Vue",
+      "body": "Vuex is a state management library for Vue.js applications. It serves as a centralized store for all components in an application, ensuring that the state remains predictable.",
+      "tags": [
+        "vue",
+        "vuex",
+        "state management"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Building a Simple Blog with Vue",
+      "body": "In this tutorial, we will build a simple blog application using Vue.js and JSON server. We'll learn how to create, read, update, and delete posts.",
+      "tags": [
+        "vue",
+        "blog",
+        "tutorial"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Deploying Vue Applications",
+      "body": "Once you've built your Vue application, deploying it to production is straightforward. This article will guide you through the steps of deploying a Vue app.",
+      "tags": [
+        "vue",
+        "deployment",
+        "production"
+      ]
+    },
+    {
+      "id": "7052",
+      "title": "titre1",
+      "body": "very interesting",
+      "tags": [
+        "fffff"
+      ]
+    },
+    {
+      "id": "b19b",
+      "title": "htyjh",
+      "body": "retherth",
+      "tags": [
+        "htrehert"
+      ]
+    }
+  ]
+}
